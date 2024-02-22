@@ -1,0 +1,10 @@
+.page-header{
+    text-align: center;
+}
+.h3, h3 {
+    background-color: #efefef;
+    border-bottom: solid 1px #d7d7d7;
+}
+.row {
+    margin-bottom: 20px;
+}
